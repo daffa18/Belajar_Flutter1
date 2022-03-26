@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Coffe '),
+          title: const Text('Coffe Qu '),
           backgroundColor: bluegrey,
           actions: [
             IconButton(
