@@ -42,6 +42,7 @@ class MyApp extends StatelessWidget {
 
             child: Row(
               mainAxisAlignment: MainAxisAlignment.center,
+
               // crossAxisAlignment: CrossAxisAlignment.start,
               children: [
                 Column(
@@ -67,6 +68,13 @@ class MyApp extends StatelessWidget {
                       "Segera membeli produk biji kopi pilihan tebaik..",
                       textAlign: TextAlign.center,
                       style: subHeader,
+                    ),
+                    const Padding(
+                      padding: EdgeInsets.only(top: 5.0),
+                      child: Text(
+                        "Dengan membeli produk ini anda sudah membantu para UMKM",
+                        textAlign: TextAlign.center,
+                      ),
                     )
                   ],
                 )

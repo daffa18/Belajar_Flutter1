@@ -8,7 +8,7 @@ TextStyle mainHeader = TextStyle(
     fontWeight: FontWeight.w700);
 
 TextStyle subHeader = TextStyle(
-    fontSize: 15,
+    fontSize: 14,
     color: bluegrey,
     fontFamily: 'Poppins',
     fontWeight: FontWeight.w700);
