@@ -72,7 +72,7 @@ class MyApp extends StatelessWidget {
                     const Padding(
                       padding: EdgeInsets.only(top: 5.0),
                       child: Text(
-                        "Dengan membeli produk ini anda sudah membantu para UMKM",
+                        "Dengan membeli produk ini anda sudah membantu para UMKM..",
                         textAlign: TextAlign.center,
                       ),
                     )
